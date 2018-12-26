@@ -1,4 +1,4 @@
-# MCI-Prediction-in-Alzheimers-Patients
-Data cleaning of Alzheimer's patient data and prediction of mild cognitive impairment using SVM
+# Predicting Mild Cognitive Impairment from NACC Data
+Data cleaning of NACC data and prediction of mild cognitive impairment using several machine learning classifiers.
 
-Python notebook that does data cleaning and preprocessing before feature selection and classification as MCI or no MCI.
+
